@@ -5,7 +5,7 @@ function generatemarkdown(answers) {
   
 
 ## Description
-🔍 ${answers.description}
+📙 ${answers.description}
 
 ## Table of Contents
 - [Description](#description)
@@ -17,7 +17,7 @@ function generatemarkdown(answers) {
 - [Questions](#questions)
 
 ## Installation
-💾 ${answers.installation}
+⚙️ ${answers.installation}
 
 ## Usage
 💻 ${answers.usage}
@@ -31,10 +31,10 @@ This application is covered by the ${answers.license} license.
 👪 ${answers.contributing}
 
 ## Tests
-✏️ ${answers.tests}
+📝 ${answers.tests}
 
 ## Questions
-✋ ${answers.questions}<br />
+🤔 ${answers.questions}<br />
 <br />
 :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
