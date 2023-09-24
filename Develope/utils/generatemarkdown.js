@@ -2,6 +2,8 @@
 function generatemarkdown(answers) {
     return `
 ${answers.projectTitle} 
+
+![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
   
 
 ## Description
