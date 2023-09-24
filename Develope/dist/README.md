@@ -1,8 +1,7 @@
 
 README GENERATOR 
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
-<br />
+![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
   
 
 ## Description
