@@ -6,13 +6,13 @@ readme generator
 📙 it helps developers to create a professional readme easier and faster
 
 ## Table of Contents
-- [Description] (#description)
-- [Installation] (#installation)
-- [Usage] (#usage)
-- [License] (#license)
-- [Contributing] (#contributing)
-- [Tests] (#tests)
-- [Questions] (#questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 ⚙️ to run this project first user should run npm i to instal the dependencies and then node index to run it
